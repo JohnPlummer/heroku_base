@@ -3,3 +3,11 @@ db/*.sqlite3
 log/*.log
 tmp/
 .sass-cache/
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
+*.log
+.idea/*
+config/heroku_env.rb
